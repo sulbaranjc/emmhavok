@@ -1,0 +1,31 @@
+[
+  {
+    "ID": "0",
+    "videotest": "https://www.youtube.com/embed/qf0japdNZ7Q",
+    "title": "Video Historia sobre tu Banda",
+    "charge": "126",
+    "currency": "US $",
+    "descrip": "Tematica a Eleccion de la banda , Con contenido Multimedia , Estrenalo cuando tu quieras , Difusion por redes sociales"
+  },
+  {
+    "ID": "1",
+    "title": "Promocion subir un video",
+    "charge": "106",
+    "currency": "US $",
+    "descrip": "Sube tu Videoclip a nuestro canal y ten un mayor numero de visualizaciones y gana mas seguidores"
+  },
+  {
+    "ID": "2",
+    "title": "Pauta en Video Noticias",
+    "charge": "136",
+    "currency": "US $",
+    "descrip": "Alcanza el mayor numero de vistas colocando un video corto dentro de nuestro video de noticias principal de la semana"
+  },
+  {
+    "ID": "3",
+    "title": "Promocion Redes Sociales",
+    "charge": "50",
+    "currency": "US $",
+    "descrip": "Apalancate con nuestras redes sociale, un post diario por 30 dias alternando Facebook y Twitter"
+  }
+]

@@ -2,21 +2,20 @@ const { Schema, model } = require("mongoose");
 const clientSchema = new Schema(
   {
     first_name: {
-      type: String,
+      type: String
     },
     last_name: {
-      type: String,
+      type: String
     },
     email: {
-      type: String,
+      type: String
     },
     phone: {
-      type: String,
+      type: String
     },
     question: {
-      type: String,
+      type: String
     }
-
   },
   {
     timestamps: true
@@ -24,5 +23,3 @@ const clientSchema = new Schema(
 );
 
 module.exports = model("Client", clientSchema);
-
-podemos 
